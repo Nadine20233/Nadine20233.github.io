@@ -7,16 +7,16 @@ description: >
  This first my blog
 
 # Your information
-email:nadine.yizere@aims.ac.rw
+email: nadine.yizere@aims.ac.rw
 author: Nadine 
 avatar: "https://github.com/Nadine20233/Nadine20233.github.io/blob/gh-pages/flowere.jpeghttps://Nadine20233.github.io/"
-profile:  I am Nadine I like Programming .
+profile: I am Nadine I like Programming .
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
   Email: "mailto:nadine.yizere@aims.ac.rw"
   GitHub: "https://github.com/Nadine20233"
-  Linkedin:"https://www.linkedin.com/in/nadine-yizere-2673b224b/"
+  Linkedin: "https://www.linkedin.com/in/nadine-yizere-2673b224b/"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
